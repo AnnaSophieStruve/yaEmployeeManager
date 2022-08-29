@@ -39,4 +39,3 @@ Zeitaufwand in h	Bezeichnung	Erläuterung
 5	Anbindungen	GitHub, Server, Frontent-Backend-, Datenbank-Verknüpfung
 5	Testen	Welches Verfahren
 
-![image](https://user-images.githubusercontent.com/71440090/187171960-c5898a12-65ab-4eef-8e99-cdd227898b58.png)
